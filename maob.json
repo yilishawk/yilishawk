@@ -4,19 +4,19 @@
 
 {
   "key": "csp_Buka",
-  "name": "Õæ²»¿¨(ÅÀ³æ)",
+  "name": "çœŸä¸å¡(çˆ¬è™«)",
   "type": 3,
   "api": "csp_Buka",
   "searchable": 1,
   "quickSearch": 0,
   "filterable": 1
 },
-{"key":"csp_appysv2_·¹ÍÅÓ°ÊÓ","name":"·¹ÍÅÓ°ÊÓ(M2)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/"},
-{"key":"csp_appysv2_Ìì¿ÕÓ°ÊÓV2","name":"Ìì¿ÕÓ°ÊÓV2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
-{"key":"csp_appysv2_ĞÇ¿ÕÓ°ÊÓ","name":"ĞÇ¿ÕÓ°ÊÓ(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xkys.tv/xgapp.php/v1/"},
+{"key":"csp_appysv2_é¥­å›¢å½±è§†","name":"é¥­å›¢å½±è§†(M2)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/"},
+{"key":"csp_appysv2_å¤©ç©ºå½±è§†V2","name":"å¤©ç©ºå½±è§†V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
+{"key":"csp_appysv2_æ˜Ÿç©ºå½±è§†","name":"æ˜Ÿç©ºå½±è§†(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xkys.tv/xgapp.php/v1/"},
 {
   "key": "csp_Auete",
-  "name": "Auete(ÅÀ³æ)",
+  "name": "Auete(çˆ¬è™«)",
   "type": 3,
   "api": "csp_Auete",
   "searchable": 1,
@@ -25,7 +25,7 @@
 },
 {
   "key": "csp_Cokemv",
-  "name": "Cokemv(ÅÀ³æ)",
+  "name": "Cokemv(çˆ¬è™«)",
   "type": 3,
   "api": "csp_Cokemv",
   "searchable": 1,
@@ -34,7 +34,7 @@
 },
   {
     "key": "csp_Nekk",
-    "name": "9E¿´¿´(ÅÀ³æ)",
+    "name": "9Eçœ‹çœ‹(çˆ¬è™«)",
     "type": 3,
     "api": "csp_Nekk",
     "searchable": 1,
@@ -43,7 +43,7 @@
   },
       {
     "key": "csp_Enlienli",
-    "name": "àÅÁ¨àÅÁ¨(ÅÀ³æ)",
+    "name": "å—¯å“©å—¯å“©(çˆ¬è™«)",
     "type": 3,
     "api": "csp_Enlienli",
     "searchable": 1,
@@ -51,14 +51,14 @@
     "filterable": 1
     },
 
-{"key":"csp_appysv2_Ìì¿ÕÓ°ÊÓ","name":"Ìì¿ÕÓ°ÊÓ(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
+{"key":"csp_appysv2_å¤©ç©ºå½±è§†","name":"å¤©ç©ºå½±è§†(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
 
-{"key":"csp_appysv2_µÏµÏÓ°Ôº","name":"µÏµÏÓ°Ôº(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
-{"key":"csp_xpath_9EKK","name":"9E¿´¿´(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/9EKK.json"},
-{"key":"csp_xpath_lezhutv","name":"ÀÖÖíTV(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/lezhutv.json"},
+{"key":"csp_appysv2_è¿ªè¿ªå½±é™¢","name":"è¿ªè¿ªå½±é™¢(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
+{"key":"csp_xpath_9EKK","name":"9Eçœ‹çœ‹(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/9EKK.json"},
+{"key":"csp_xpath_lezhutv","name":"ä¹çŒªTV(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/lezhutv.json"},
  {
     "key": "csp_xpath_94sm",
-    "name": "94ÉñÂí(XPath)",
+    "name": "94ç¥é©¬(XPath)",
     "type": 3,
     "api": "csp_XPath",
     "searchable": 1,
@@ -68,7 +68,7 @@
 },
  {
 "key":"csp_xpath_ysjc",
-"name":"¹¤³§Ó°ÊÓ(XPath)",
+"name":"å·¥å‚å½±è§†(XPath)",
 "type":3,
 "api":"csp_XPath",
 "searchable":1,
@@ -78,7 +78,7 @@
 },
 {
     "key": "csp_xpath_age",
-    "name": "AGE¶¯Âş(XPath)",
+    "name": "AGEåŠ¨æ¼«(XPath)",
     "type": 3,
     "api": "csp_XPath",
     "searchable": 1,
@@ -88,7 +88,7 @@
 },
 {
     "key": "csp_xpath_jpyszl",
-    "name": "¼«Æ·Ö±Á´(XPath)",
+    "name": "æå“ç›´é“¾(XPath)",
     "type": 3,
     "api": "csp_XPathMac",
     "searchable": 1,
@@ -98,7 +98,7 @@
 },
 {
     "key": "csp_xpath_tvci",
-    "name": "´óÊ¦ĞÖ(XPath)",
+    "name": "å¤§å¸ˆå…„(XPath)",
     "type": 3,
     "api": "csp_XPath",
     "searchable": 1,
@@ -108,7 +108,7 @@
 },
 {
     "key": "csp_xpath_duboku",
-    "name": "¶À²¥¿â(XPath)",
+    "name": "ç‹¬æ’­åº“(XPath)",
     "type": 3,
     "api": "csp_XPath",
     "searchable": 1,
@@ -118,7 +118,7 @@
 },
 {
      "key": "csp_xpath_dm84",
-     "name": "¶¯Âş°ÍÊ¿(XPath)",
+     "name": "åŠ¨æ¼«å·´å£«(XPath)",
      "type": 3,
      "api": "csp_XPath",
      "searchable": 1,
@@ -138,182 +138,182 @@
 },
 
 
-{"key":"csp_appysv2_ÁéºüÓ°ÊÓ","name":"ÁéºüÓ°ÊÓ(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://x.dmntv.com/api.php/app/"},
-{"key":"csp_appysv2_ÊÖÖ¸Ó°ÊÓ","name":"ÊÖÖ¸Ó°ÊÓ(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_1080p","name":"1080p(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://1080p.one/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_1231D","name":"1231D(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://vue.app.yunboys.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_300¿´ÊÀ½ç","name":"300¿´ÊÀ½ç(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://300ys.xyz/api.php/v1.vod"},
-{"key":"csp_appysv2_4KÓ°Ôº","name":"4KÓ°Ôº(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://1api.4kdytv.com/api.php/v1.vod"},
-{"key":"csp_appysv2_CJTÓ°Ôº","name":"CJTÓ°Ôº(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.cjt521.com/api.php/v1.vod"},
-{"key":"csp_appysv2_DCÓ°ÊÓ","name":"DCÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
-{"key":"csp_appysv2_F7¸ßÇå","name":"F7¸ßÇå(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://bc.haokanju1.cc/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_HGÓ°ÊÓ","name":"HGÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://hgyx.vip/api.php/v1.vod"},
-{"key":"csp_appysv2_°®¿´ÃÀ¾ç","name":"°®¿´ÃÀ¾ç(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.uumjw.com/api.php/v1.vod"},
-{"key":"csp_appysv2_°®¿áÓ°ÊÓ","name":"°®¿áÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
-{"key":"csp_appysv2_°®¿´Ó°Ôº","name":"°®¿´Ó°Ôº(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.a91.cm/api.php/v1.vod"},
-{"key":"csp_appysv2_²ËÄñ×·¾ç","name":"²ËÄñ×·¾ç(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://81.71.18.95:5555/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_°×æÎÓ°ÊÓ","name":"°×æÎÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://zgjxdtg.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_³õĞÄÓ°ÊÓ","name":"³õĞÄÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.18mv.club/api.php/v1.vod"},
-{"key":"csp_appysv2_¶À²¥Éç","name":"¶À²¥Éç(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://35ys.cc/api.php/v1.vod"},
-{"key":"csp_appysv2_¶£µ±Ó°ÊÓ","name":"¶£µ±Ó°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://tv.0573wl.com/api.php/v1.vod"},
-{"key":"csp_appysv2_¶ÎÓÑÓ°ÊÓ","name":"¶ÎÓÑÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
-{"key":"csp_appysv2_¶ÎÓÑ2Ó°ÊÓ","name":"¶ÎÓÑ2Ó°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
-{"key":"csp_appysv2_·¹ºóµçÓ°","name":"·¹ºóµçÓ°(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://baicai.summ.vip/api.php/v1.vod"},
-{"key":"csp_appysv2_·É½İÓ°ÊÓ","name":"·É½İÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.fj6080.com/api.php/v1.vod"},
-{"key":"csp_appysv2_·è¿ñ¿´","name":"·è¿ñ¿´(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.fkkdy.vip/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_·ÛÏóÊÓ½ç","name":"·ÛÏóÊÓ½ç(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_»¢Ã¨ÊÓÆµ","name":"»¢Ã¨ÊÓÆµ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://humaosp.com/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_¿´¿´Ó°ÊÓ","name":"¿´¿´Ó°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://kk.ccboke.top/ruifenglb_api.php/v1.vod"},
-{"key":"csp_appysv2_Ã¨ßäTV","name":"Ã¨ßäTV(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://106.12.113.90:6565/api.php/iptv/vod/"},
-{"key":"csp_appysv2_¿µÒ«Ó°ÊÓ","name":"¿µÒ«Ó°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://124.222.126.23:999/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_Áù°Ñµ¶Ó°Ôº","name":"Áù°Ñµ¶Ó°Ôº(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://pro.6bd.net/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_ÂÌ¼ıÓ°ÊÓ","name":"ÂÌ¼ıÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.69ty.cc/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_Áã¿ÌÓ°Ôº","name":"Áã¿ÌÓ°Ôº(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_ÀÁÃ¨µçÓ°","name":"ÀÁÃ¨µçÓ°(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://lanmao.lanmaoymw.cn/ruifenglb_api.php/v1.vod"},
-{"key":"csp_appysv2_À¶Ã¨Ó°Ôº","name":"À¶Ã¨Ó°Ôº(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.baofu111.top/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_ÀÅçğÓ°ÊÓ","name":"ÀÅçğÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://fgyuu.top/lehailb_api.php/v1.vod"},
-{"key":"csp_appysv2_ÃÛ·äÓ°ÊÓ","name":"ÃÛ·äÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.f8tp.com/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_Âé¹ÏÊÓÆµ","name":"Âé¹ÏÊÓÆµ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_ÃÀ¾ç³æ","name":"ÃÀ¾ç³æ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
-{"key":"csp_appysv2_ÄÎ·ÇÃÔ","name":"ÄÎ·ÇÃÔ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.netflixmi.com/api.php/v1.vod"},
-{"key":"csp_appysv2_ÄÏ¸®Ó°ÊÓ","name":"ÄÏ¸®Ó°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://iapp.nfuxs.club/dnmb.php/v1.vod"},
-{"key":"csp_appysv2_Å¯¹âÓ°ÊÓ","name":"Å¯¹âÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
-{"key":"csp_appysv2_ÄîÄîÓ°ÊÓ","name":"ÄîÄîÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://998.yuanmajs.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_ÄûèÖÓ°ÊÓ","name":"ÄûèÖÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://nu.e4tv.cn/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_Ææ¹ÖÊÓÆµ","name":"Ææ¹ÖÊÓÆµ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://giguai.net/api.php/v1.vod"},
-{"key":"csp_appysv2_Èğ·á×ÊÔ´","name":"Èğ·á×ÊÔ´(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://tv.yjhan.com:4433/api.php/v1.vod"},
-{"key":"csp_appysv2_Ë¼ÀÖÓ°ÊÓ","name":"Ë¼ÀÖÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.huandian.top/ruifenglb_api.php/v1.vod"},
-{"key":"csp_appysv2_Ìì³ÏÓ°ÊÓ","name":"Ìì³ÏÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://tcspvip.cn/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_ÌìÌìÓ°ÊÓ","name":"ÌìÌìÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.daishusc.com/api.php/v1.vod"},
-{"key":"csp_appysv2_Ğ¡°×¶¯Âş","name":"Ğ¡°×¶¯Âş(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://121.62.60.222:20222/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_ĞÖµÜÓ°ÊÓ","name":"ĞÖµÜÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.xdys.vip/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_Ğ¡¼«Ó°ÊÓ","name":"Ğ¡¼«Ó°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.8d8q.com/api.php/v1.vod"},
-{"key":"csp_appysv2_ĞÄğ½Ó°ÊÓ","name":"ĞÄğ½Ó°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://zhiyutv.xyz/api.php/v1.vod"},
-{"key":"csp_appysv2_Ñ©ÈËÓ°ÊÓ","name":"Ñ©ÈËÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://zy.qd234.cn/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_Òæ´ïÓ°Ôº","name":"Òæ´ïÓ°Ôº(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_Óê¹ûÓ°ÊÓ","name":"Óê¹ûÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://2.yhys63.com/api.php/v1.vod"},
-{"key":"csp_appysv2_Ó°ÊÓ´óÈ«","name":"Ó°ÊÓ´óÈ«(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.269w.com/api.php/v1.vod"},
-{"key":"csp_appysv2_ÔÂÉ«Ó°ÊÓ","name":"ÔÂÉ«Ó°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://69ty.cc/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_ÓÅÊÓÓ°ÊÓ","name":"ÓÅÊÓÓ°ÊÓ(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.ysys.asia/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_Ó°ÔÄ¸ó","name":"Ó°ÔÄ¸ó(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://221.236.18.12:665/api.php/v1.vod"},
-{"key":"csp_appysv2_×·¾ç°É","name":"×·¾ç°É(ÓÅ)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://zhuiju8.vip/api.php/v1.vod"}
+{"key":"csp_appysv2_çµç‹å½±è§†","name":"çµç‹å½±è§†(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://x.dmntv.com/api.php/app/"},
+{"key":"csp_appysv2_æ‰‹æŒ‡å½±è§†","name":"æ‰‹æŒ‡å½±è§†(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_1080p","name":"1080p(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://1080p.one/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_1231D","name":"1231D(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://vue.app.yunboys.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_300çœ‹ä¸–ç•Œ","name":"300çœ‹ä¸–ç•Œ(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://300ys.xyz/api.php/v1.vod"},
+{"key":"csp_appysv2_4Kå½±é™¢","name":"4Kå½±é™¢(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://1api.4kdytv.com/api.php/v1.vod"},
+{"key":"csp_appysv2_CJTå½±é™¢","name":"CJTå½±é™¢(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.cjt521.com/api.php/v1.vod"},
+{"key":"csp_appysv2_DCå½±è§†","name":"DCå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
+{"key":"csp_appysv2_F7é«˜æ¸…","name":"F7é«˜æ¸…(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://bc.haokanju1.cc/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_HGå½±è§†","name":"HGå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://hgyx.vip/api.php/v1.vod"},
+{"key":"csp_appysv2_çˆ±çœ‹ç¾å‰§","name":"çˆ±çœ‹ç¾å‰§(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.uumjw.com/api.php/v1.vod"},
+{"key":"csp_appysv2_çˆ±é…·å½±è§†","name":"çˆ±é…·å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
+{"key":"csp_appysv2_çˆ±çœ‹å½±é™¢","name":"çˆ±çœ‹å½±é™¢(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.a91.cm/api.php/v1.vod"},
+{"key":"csp_appysv2_èœé¸Ÿè¿½å‰§","name":"èœé¸Ÿè¿½å‰§(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://81.71.18.95:5555/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_ç™½å«–å½±è§†","name":"ç™½å«–å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://zgjxdtg.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_åˆå¿ƒå½±è§†","name":"åˆå¿ƒå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.18mv.club/api.php/v1.vod"},
+{"key":"csp_appysv2_ç‹¬æ’­ç¤¾","name":"ç‹¬æ’­ç¤¾(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://35ys.cc/api.php/v1.vod"},
+{"key":"csp_appysv2_å®å½“å½±è§†","name":"å®å½“å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://tv.0573wl.com/api.php/v1.vod"},
+{"key":"csp_appysv2_æ®µå‹å½±è§†","name":"æ®µå‹å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
+{"key":"csp_appysv2_æ®µå‹2å½±è§†","name":"æ®µå‹2å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
+{"key":"csp_appysv2_é¥­åç”µå½±","name":"é¥­åç”µå½±(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://baicai.summ.vip/api.php/v1.vod"},
+{"key":"csp_appysv2_é£æ·å½±è§†","name":"é£æ·å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.fj6080.com/api.php/v1.vod"},
+{"key":"csp_appysv2_ç–¯ç‹‚çœ‹","name":"ç–¯ç‹‚çœ‹(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.fkkdy.vip/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_ç²‰è±¡è§†ç•Œ","name":"ç²‰è±¡è§†ç•Œ(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_è™çŒ«è§†é¢‘","name":"è™çŒ«è§†é¢‘(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://humaosp.com/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_çœ‹çœ‹å½±è§†","name":"çœ‹çœ‹å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://kk.ccboke.top/ruifenglb_api.php/v1.vod"},
+{"key":"csp_appysv2_çŒ«å’ªTV","name":"çŒ«å’ªTV(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://106.12.113.90:6565/api.php/iptv/vod/"},
+{"key":"csp_appysv2_åº·è€€å½±è§†","name":"åº·è€€å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://124.222.126.23:999/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_å…­æŠŠåˆ€å½±é™¢","name":"å…­æŠŠåˆ€å½±é™¢(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://pro.6bd.net/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_ç»¿ç®­å½±è§†","name":"ç»¿ç®­å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.69ty.cc/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_é›¶åˆ»å½±é™¢","name":"é›¶åˆ»å½±é™¢(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_æ‡’çŒ«ç”µå½±","name":"æ‡’çŒ«ç”µå½±(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://lanmao.lanmaoymw.cn/ruifenglb_api.php/v1.vod"},
+{"key":"csp_appysv2_è“çŒ«å½±é™¢","name":"è“çŒ«å½±é™¢(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.baofu111.top/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_ç…çŠå½±è§†","name":"ç…çŠå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://fgyuu.top/lehailb_api.php/v1.vod"},
+{"key":"csp_appysv2_èœœèœ‚å½±è§†","name":"èœœèœ‚å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.f8tp.com/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_éº»ç“œè§†é¢‘","name":"éº»ç“œè§†é¢‘(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_ç¾å‰§è™«","name":"ç¾å‰§è™«(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+{"key":"csp_appysv2_å¥ˆéè¿·","name":"å¥ˆéè¿·(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.netflixmi.com/api.php/v1.vod"},
+{"key":"csp_appysv2_å—åºœå½±è§†","name":"å—åºœå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://iapp.nfuxs.club/dnmb.php/v1.vod"},
+{"key":"csp_appysv2_æš–å…‰å½±è§†","name":"æš–å…‰å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
+{"key":"csp_appysv2_å¿µå¿µå½±è§†","name":"å¿µå¿µå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://998.yuanmajs.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_æŸ æŸšå½±è§†","name":"æŸ æŸšå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://nu.e4tv.cn/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_å¥‡æ€ªè§†é¢‘","name":"å¥‡æ€ªè§†é¢‘(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://giguai.net/api.php/v1.vod"},
+{"key":"csp_appysv2_ç‘ä¸°èµ„æº","name":"ç‘ä¸°èµ„æº(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://tv.yjhan.com:4433/api.php/v1.vod"},
+{"key":"csp_appysv2_æ€ä¹å½±è§†","name":"æ€ä¹å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.huandian.top/ruifenglb_api.php/v1.vod"},
+{"key":"csp_appysv2_å¤©è¯šå½±è§†","name":"å¤©è¯šå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://tcspvip.cn/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_å¤©å¤©å½±è§†","name":"å¤©å¤©å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.daishusc.com/api.php/v1.vod"},
+{"key":"csp_appysv2_å°ç™½åŠ¨æ¼«","name":"å°ç™½åŠ¨æ¼«(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://121.62.60.222:20222/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_å…„å¼Ÿå½±è§†","name":"å…„å¼Ÿå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.xdys.vip/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_å°æå½±è§†","name":"å°æå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.8d8q.com/api.php/v1.vod"},
+{"key":"csp_appysv2_å¿ƒé¸¾å½±è§†","name":"å¿ƒé¸¾å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://zhiyutv.xyz/api.php/v1.vod"},
+{"key":"csp_appysv2_é›ªäººå½±è§†","name":"é›ªäººå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://zy.qd234.cn/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_ç›Šè¾¾å½±é™¢","name":"ç›Šè¾¾å½±é™¢(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_é›¨æœå½±è§†","name":"é›¨æœå½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://2.yhys63.com/api.php/v1.vod"},
+{"key":"csp_appysv2_å½±è§†å¤§å…¨","name":"å½±è§†å¤§å…¨(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.269w.com/api.php/v1.vod"},
+{"key":"csp_appysv2_æœˆè‰²å½±è§†","name":"æœˆè‰²å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://69ty.cc/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_ä¼˜è§†å½±è§†","name":"ä¼˜è§†å½±è§†(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.ysys.asia/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_å½±é˜…é˜","name":"å½±é˜…é˜(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://221.236.18.12:665/api.php/v1.vod"},
+{"key":"csp_appysv2_è¿½å‰§å§","name":"è¿½å‰§å§(ä¼˜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://zhuiju8.vip/api.php/v1.vod"}
  ],
 
   "lives": [
 
     {
-      "group": "ÑëÊÓ",
+      "group": "å¤®è§†",
       "channels": [
-        {"name":"CCTV-1","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-2","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-3","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-4","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-5","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-5+","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-6","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-7","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-8","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-9","urls":["http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8","http://111.40.196.9/PLTV/88888888/224/3221225502/index.m3u8","http://39.135.46.246:6610/PLTV/77777777/224/3221225633/index.m3u8?hls","http://39.134.118.77/live.gq.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=1"]},{"name":"CCTV-10","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-11","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-12","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-13","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-14","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-15","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-17","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-¸ßÍøÆµµÀ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-ÎÄ»¯¾«Æ·","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-µçÊÓÖ¸ÄÏ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-±øÆ÷¿Æ¼¼","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-·çÔÆÒôÀÖ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-Å®ĞÔÊ±ÉĞ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-·çÔÆ¾ç³¡","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-µÚÒ»¾ç³¡","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-ÊÀ½çµØÀí","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-·çÔÆ×ãÇò","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-»³¾É¾ç³¡","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls"]}
+        {"name":"CCTV-1","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-2","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-3","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-4","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-5","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-5+","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-6","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-7","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-8","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-9","urls":["http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8","http://111.40.196.9/PLTV/88888888/224/3221225502/index.m3u8","http://39.135.46.246:6610/PLTV/77777777/224/3221225633/index.m3u8?hls","http://39.134.118.77/live.gq.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=1"]},{"name":"CCTV-10","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-11","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-12","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-13","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-14","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-15","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-17","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-é«˜ç½‘é¢‘é“","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-æ–‡åŒ–ç²¾å“","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-ç”µè§†æŒ‡å—","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-å…µå™¨ç§‘æŠ€","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-é£äº‘éŸ³ä¹","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-å¥³æ€§æ—¶å°š","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-é£äº‘å‰§åœº","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-ç¬¬ä¸€å‰§åœº","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-ä¸–ç•Œåœ°ç†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-é£äº‘è¶³çƒ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls"]},{"name":"CCTV-æ€€æ—§å‰§åœº","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls"]}
       ]
     },
     {
-      "group": "ÎÀÊÓ",
+      "group": "å«è§†",
       "channels": [
-        {"name":"ºşÄÏÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls"]},{"name":"¹ã¶«ÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls"]},{"name":"ÉîÛÚÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225712/1/index.m3u8?fmt=ts2hls"]},{"name":"ºÓÄÏÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls"]},{"name":"ÁÉÄşÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls"]},{"name":"½­Î÷ÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls"]},{"name":"É½¶«ÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225728/1/index.m3u8?fmt=ts2hls"]},{"name":"¶«ÄÏÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls"]},{"name":"Õã½­ÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225750/1/index.m3u8?fmt=ts2hls"]},{"name":"½­ËÕÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls"]},{"name":"¼ªÁÖÎÀÊÓ","urls":["http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls"]},{"name":"±±¾©ÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls"]},{"name":"ËÄ´¨ÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225757/1/index.m3u8?fmt=ts2hls"]},{"name":"Áú½­ÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225758/1/index.m3u8?fmt=ts2hls"]},{"name":"¼ÍÊµÈËÎÄ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls"]},{"name":"¹óÖİÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225776/1/index.m3u8?fmt=ts2hls"]},{"name":"ºşÄÏÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls"]},{"name":"Õã½­ÎÀÊÓ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225780/1/index.m3u8?fmt=ts2hls"]},{"name":"ÌåÓıÈüÊÂ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls"]},{"name":"¼ÍÊµÈËÎÄ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls"]},{"name":"ĞÂÊÓ¾õ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls"]},{"name":"¿ìÀÖ´¹µö","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls"]},{"name":"²èÆµµÀ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls"]},{"name":"ÓÎÏ··çÔÆ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls"]},{"name":"ÌåÓıÈüÊÂ","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226196/1/index.m3u8?fmt=ts2hls"]}
+        {"name":"æ¹–å—å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls"]},{"name":"å¹¿ä¸œå«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls"]},{"name":"æ·±åœ³å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225712/1/index.m3u8?fmt=ts2hls"]},{"name":"æ²³å—å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls"]},{"name":"è¾½å®å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls"]},{"name":"æ±Ÿè¥¿å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls"]},{"name":"å±±ä¸œå«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225728/1/index.m3u8?fmt=ts2hls"]},{"name":"ä¸œå—å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls"]},{"name":"æµ™æ±Ÿå«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225750/1/index.m3u8?fmt=ts2hls"]},{"name":"æ±Ÿè‹å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls"]},{"name":"å‰æ—å«è§†","urls":["http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls"]},{"name":"åŒ—äº¬å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls"]},{"name":"å››å·å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225757/1/index.m3u8?fmt=ts2hls"]},{"name":"é¾™æ±Ÿå«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225758/1/index.m3u8?fmt=ts2hls"]},{"name":"çºªå®äººæ–‡","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls"]},{"name":"è´µå·å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225776/1/index.m3u8?fmt=ts2hls"]},{"name":"æ¹–å—å«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls"]},{"name":"æµ™æ±Ÿå«è§†","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225780/1/index.m3u8?fmt=ts2hls"]},{"name":"ä½“è‚²èµ›äº‹","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls"]},{"name":"çºªå®äººæ–‡","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls"]},{"name":"æ–°è§†è§‰","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls"]},{"name":"å¿«ä¹å‚é’“","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls"]},{"name":"èŒ¶é¢‘é“","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls"]},{"name":"æ¸¸æˆé£äº‘","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls"]},{"name":"ä½“è‚²èµ›äº‹","urls":["http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226196/1/index.m3u8?fmt=ts2hls"]}
       ]
     },
     {
       "group": "NewTV",
       "channels": [
         {
-          "name": "NewTV°®ÇéÏ²¾ç",
+          "name": "NewTVçˆ±æƒ…å–œå‰§",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj"
           ]
         },
         {
-          "name": "NewTV³±ÂèÀ±ÆÅ",
+          "name": "NewTVæ½®å¦ˆè¾£å©†",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo"
           ]
         },
         {
-          "name": "NewTV¶¯×÷µçÓ°",
+          "name": "NewTVåŠ¨ä½œç”µå½±",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody"
           ]
         },
         {
-          "name": "NewTV¹Å×°¾ç³¡",
+          "name": "NewTVå¤è£…å‰§åœº",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc"
           ]
         },
         {
-          "name": "NewTVºÚİ®µç¾ºÖ®Ò¹",
+          "name": "NewTVé»‘è“ç”µç«ä¹‹å¤œ",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/wmyx/wmyx"
           ]
         },
         {
-          "name": "NewTVºÚİ®µçÓ°",
+          "name": "NewTVé»‘è“ç”µå½±",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie"
           ]
         },
         {
-          "name": "NewTVºÚİ®¶¯»­",
+          "name": "NewTVé»‘è“åŠ¨ç”»",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg"
           ]
         },
         {
-          "name": "NewTV¼ÒÍ¥¾ç³¡",
+          "name": "NewTVå®¶åº­å‰§åœº",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc"
           ]
         },
         {
-          "name": "NewTV½ğÅÆ×ÛÒÕ",
+          "name": "NewTVé‡‘ç‰Œç»¼è‰º",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx"
           ]
         },
         {
-          "name": "NewTV¾«Æ·´ó¾ç",
+          "name": "NewTVç²¾å“å¤§å‰§",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju"
           ]
         },
         {
-          "name": "NewTV¾«Æ·ÌåÓı",
+          "name": "NewTVç²¾å“ä½“è‚²",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu"
           ]
         },
         {
-          "name": "NewTV¾«Æ·×ÛºÏ",
+          "name": "NewTVç²¾å“ç»¼åˆ",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp"
           ]
         },
         {
-          "name": "NewTV¾üÂÃ¾ç³¡",
+          "name": "NewTVå†›æ—…å‰§åœº",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc"
           ]
         },
         {
-          "name": "NewTV¾üÊÂÆÀÂÛ",
+          "name": "NewTVå†›äº‹è¯„è®º",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl"
           ]
         },
         {
-          "name": "NewTVÅ©ÒµÖÂ¸»",
+          "name": "NewTVå†œä¸šè‡´å¯Œ",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf"
           ]
         },
         {
-          "name": "NewTVÈÈ²¥¾«Ñ¡",
+          "name": "NewTVçƒ­æ’­ç²¾é€‰",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"
           ]
         },
         {
-          "name": "NewTVÖĞ¹ú¹¦·ò",
+          "name": "NewTVä¸­å›½åŠŸå¤«",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"
           ]
@@ -323,85 +323,85 @@
   ],
   "parses": [
     {
-      "name": "µã´Ë½âÎö",
+      "name": "ç‚¹æ­¤è§£æ",
       "type": 2,
       "url": "Parallel"
     },
-  {"name":"ÎŞÃû1","type":1,"url":"http://cs.024zs.com:8090/api/?key=ohApwnws7CIqX1xl9J&url="},
+  {"name":"æ— å1","type":1,"url":"http://cs.024zs.com:8090/api/?key=ohApwnws7CIqX1xl9J&url="},
     {
-      "name": "ÎŞÃû",
+      "name": "æ— å",
       "type": 1,
       "url": "https://api.zakkpa.com:8888/analysis/json/?uid=91&my=gjksuvCHIJLRS01268&url="
     },
     {
-      "name": "À¶¹âÊÓÑ¶",
+      "name": "è“å…‰è§†è®¯",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
     },
     {
-      "name": "Âé»¨ÊÓÆµ",
+      "name": "éº»èŠ±è§†é¢‘",
       "type": 1,
       "url": "http://jf.tcspvip.com:246/home/api?type=ys&uid=65404&key=bjoprtvyABGIMPXZ27&url="
     },
 
       {
-      "name": "»ÆºÓÓ°ÊÓ",
+      "name": "é»„æ²³å½±è§†",
       "type": 1,
       "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
     },
       {
-      "name": "½î¶·ÔÆ",
+      "name": "ç­‹æ–—äº‘",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="
     },
     {
-      "name": "ÂÌ¼ıÓ°ÊÓ1",
+      "name": "ç»¿ç®­å½±è§†1",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url="
     },
     {
-      "name": "¾Ã¾ÅÓ°ÊÓ",
+      "name": "ä¹…ä¹å½±è§†",
       "type": 1,
       "url": "https://json.hfyrw.com/mao.go?url="
     },
     {
-      "name": "À¶¹âÊÓÆµ",
+      "name": "è“å…‰è§†é¢‘",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
     },
     {
-      "name": "4KÓ°Ôº1",
+      "name": "4Kå½±é™¢1",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="
     },
     {
-      "name": "Òæ´ïÓ°Ôº",
+      "name": "ç›Šè¾¾å½±é™¢",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url="
     },
 
     {
-      "name": "DCÓ°ÊÓ",
+      "name": "DCå½±è§†",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=7665652&key=dglmnwEFILMOPRW056&url="
     },
     {
-      "name": "Ä¨²èÖí",
+      "name": "æŠ¹èŒ¶çŒª",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url="
     },
     {
-      "name": "Âé¹ÏÊÓÆµ",
+      "name": "éº»ç“œè§†é¢‘",
       "type": 1,
       "url": "https://api.parwix.com:4433/analysis/json/?uid=1735&my=cejkmnuvyBEFINR056&url="
     },
     {
-      "name": "×·¾ç°É2",
+      "name": "è¿½å‰§å§2",
       "type": 1,
       "url": "https://svip.spchat.top/api/?key=SAl7tLs3Zzu5alSNtz&url="
     },
     {
-      "name": "¿´¾ç°É1",
+      "name": "çœ‹å‰§å§1",
       "type": 1,
       "url": "https://supervip.rongxingvr.cn:8866/api/?key=nKn4eO8giUKSe8jxZU&url="
     },
@@ -411,53 +411,53 @@
       "url": "https://json.legendwhb.cn/json.php/?url="
     },
     {
-      "name": "ĞÇÓ°ÏàËæ1",
+      "name": "æ˜Ÿå½±ç›¸éš1",
       "type": 1,
       "url": "https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url="
     },
    {
-      "name": "°®Ó°ÊÓ",
+      "name": "çˆ±å½±è§†",
       "type": 1,
       "url": "http://14.17.115.200:520/json.php?id=6e5LaYyU5JLs9aRawyGKwPkH7ZFr701z&url="
     },
     {
-      "name": "×·¾ç°É1",
+      "name": "è¿½å‰§å§1",
       "type": 1,
       "url": "http://newjiexi.gotto.top/yun_apib.php/?url="
     },
     {
-      "name": "ÓÅÊÓÓ°ÊÓ",
+      "name": "ä¼˜è§†å½±è§†",
       "type": 1,
       "url": "http://ccc.ysys.asia/jx/?id=2&url="
     },
 
     {
-      "name": "(ÎŞÃû)1",
+      "name": "(æ— å)1",
       "type": 1,
       "url": "http://vipjh.chunbaotaiji.com/?url="
     },
     {
-      "name": "Âé¹ÏÊÓÆµ1",
+      "name": "éº»ç“œè§†é¢‘1",
       "type": 1,
       "url": "https://jhjx.ptygx.com/xttyjx.php/?url="
     },
     {
-      "name": "VipÓ°Ôº",
+      "name": "Vipå½±é™¢",
       "type": 1,
       "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=ehklrtxzAFKLMNUXY2&url="
     },
     {
-      "name": "´óÍ·Ó°ÊÓ",
+      "name": "å¤§å¤´å½±è§†",
       "type": 1,
       "url": "http://fast.rongxingvr.cn:99/api/?key=M3tZzS2q0oGrQ7aWlr&url="
     },
     {
-      "name": "ÂÌ¼ıÓ°ÊÓ",
+      "name": "ç»¿ç®­å½±è§†",
       "type": 1,
       "url": "http://jf.jisutuku.top/api/?key=RHjXcjUTkyZnfWx9u4&url="
     },
     {
-      "name": "ÎÒ°®µçÓ°1",
+      "name": "æˆ‘çˆ±ç”µå½±1",
       "type": 1,
       "url": "https://vip.kpjx.cc/api/?key=3sKKYzWSxLmX1hnsMs&url="
     },
@@ -467,84 +467,84 @@
       "url": "http://47.100.138.210:91/home/api?type=ys&uid=1947441&key=bcfgjmuwCEORSVX237&url="
     },
     {
-      "name": "ÃÛ¹ûTV",
+      "name": "èœœæœTV",
       "type": 1,
       "url": "https://fast.rongxingvr.cn:8866/api/?key=rmxOw7BpINuGIyWQng&url="
     },
       {
-      "name": "½î¶·ÔÆ1",
+      "name": "ç­‹æ–—äº‘1",
       "type": 1,
       "url": "https://fast.rongxingvr.cn:8866/api/?key=nrR7koAyq9ajKId4nC&url="
     },
 
     {
-      "name": "TV¿á",
+      "name": "TVé…·",
       "type": 1,
       "url": "http://a.dxzj88.com/jhjson/?url="
     },
     {
-      "name": "·¹ºóµçÓ°",
+      "name": "é¥­åç”µå½±",
       "type": 1,
       "url": "https://fast.rongxingvr.cn:8866/api/?key=J4mUIu3DrRtIOojDox&url="
     },
     {
-      "name": "Ó°ÔÄ¸ó2",
+      "name": "å½±é˜…é˜2",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url="
     },
     {
-      "name": "¿´¾ç°É",
+      "name": "çœ‹å‰§å§",
       "type": 1,
       "url": "http://47.100.138.210:91/home/api?type=ys&uid=243653&key=kqswxyABGHKLQSV127&url="
     },
     {
-      "name": "¶¹ÔüÓ°ÊÓ",
+      "name": "è±†æ¸£å½±è§†",
       "type": 1,
       "url": "https://fast.rongxingvr.cn:8866/api/?key=jtDZ22biNujOBLlgoe&url="
     },
     {
-      "name": "ÓÅÊÓÓ°ÊÓ2",
+      "name": "ä¼˜è§†å½±è§†2",
       "type": 1,
       "url": "http://ccc.ysys.asia/jx/?id=4&url="
     },
     {
-      "name": "ĞÇ¿ÕÓ°ÊÓ",
+      "name": "æ˜Ÿç©ºå½±è§†",
       "type": 1,
       "url": "http://api.vip123kan.vip/?url="
     },
     {
-      "name": "°®×·¾ç",
+      "name": "çˆ±è¿½å‰§",
       "type": 1,
       "url": "https://jhjx.ptygx.com/xttyjx.php/?url="
     },
     {
-      "name": "¼«¿Í",
+      "name": "æå®¢",
       "type": 1,
       "url": "https://sbsb.i8k.cc/?url="
     },
     {
-      "name": "ÒÅÍüÓ°ÊÓ",
+      "name": "é—å¿˜å½±è§†",
       "type": 1,
       "url": "http://gq.bywdtk.cn/?url="
     },
     {
-      "name": "çôÄÈÓ°ÊÓ",
+      "name": "çºå¨œå½±è§†",
       "type": 1,
       "url": "https://balabala.yatongle.com/api/?key=RuHZpg9zxigiLZRIyl&url="
     },
     {
-      "name": "»ÆºÓÓ°ÊÓ",
+      "name": "é»„æ²³å½±è§†",
       "type": 1,
       "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
     },
     {
-      "name": "VipÓ°Ôº1",
+      "name": "Vipå½±é™¢1",
       "type": 1,
       "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url="
     },
 
     {
-      "name": "¹«Ö÷Ó°ÊÓ",
+      "name": "å…¬ä¸»å½±è§†",
       "type": 1,
       "url": "https://jx.renrenmi.cc/?url="
     }
@@ -567,7 +567,7 @@
 
   "ijk": [
     {
-      "group": "Èí½âÂë",
+      "group": "è½¯è§£ç ",
       "options": [
         {
           "category": 4,
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "group": "Ó²½âÂë",
+      "group": "ç¡¬è§£ç ",
       "options": [
         {
           "category": 4,
