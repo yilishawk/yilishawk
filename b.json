@@ -3,7 +3,7 @@
 {"name":"心爱影视(推荐)","url":"https://xays6677.com/mogai_api.php/v1.vod"},
 {"name":"手指影视(推荐)","url":"https://szys5678.com/mogai_api.php/v1.vod"},
 {"name":"星空影视(推荐)","url":"https://xkys.tv/xgapp.php/v1/"},
-{"name": "饭团影视(推荐)","url": "http://television.wkfile.com/api.php/app/"},
+{"name": "速播","url": "https://api.suboapi.com/api.php/v1.vod"},
 {"name": "嘀哩嘀哩","url": "http://dilidili.la/api.php/app/"},
 {"name":"莫扎兔","url":"http://www.mozhatu.xyz/api.php/app/"},
 {"name":"无名影视","url":"http://ccxg.xazhutu.com/xgapp.php/v1/"},
@@ -64,7 +64,7 @@
 {"name":"追剧猫","url":"http://tv.kmtvb.com/api.php/v1.vod"},
 {"name":"渔渔影视","url":"http://luobo.yugenye.site/api.php/v1.vod"}],
 "zhujiexi": "https://jhjx.kuanjv.com/?url=",
-"beiyongjiexi": "http://leleys.xyz/app/jx.php?url=",
+"beiyongjiexi": "http://leleys.xyz/app/jx.php?url=#https://player.suboapi.com/jx/?url=",
 "renrenjiexi": "http://leleys.xyz/app/jx.php?url=",
 "LTjiexi": "https://che.kmys.top/1.php?url=",
 "wuduyunjiexi": "https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=",
@@ -76,7 +76,7 @@
 "lunboqianzhui": "https://m.douyu.com",
 "Home": {
 "dy": {
-"class": "全部$&class=#喜剧$&class=喜剧#爱情$&class=爱情#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#伦理$&class=伦理#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记",
+"class": "全部$&class=#国产自拍$&class=国产自拍#主播大秀$&class=主播大秀#亚洲有码$&class=亚洲有码#日韩经典$&class=日韩经典#亚洲无码$&class=亚洲无码#欧美激情$&class=欧美激情#中文字幕$&class=中文字幕#成人动漫$&class=成人动漫#三级伦理$&class=三级伦理#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#伦理$&class=伦理#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记",
 "area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#欧洲$&area=欧洲#韩国$&area=韩国#日本$&area=日本#泰国$&area=泰国#印度$&area=印度#其它$&area=其它",
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 },
