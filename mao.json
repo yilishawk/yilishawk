@@ -452,7 +452,7 @@
 {"name": "解析53","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="},
 {"name": "解析54","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
-"spider":"https://gitee.com/wkyilisha/mao/raw/master/custom_spider.jar;md5;71324bbe69b3a59348ceae5e9b9e0a28"
+"spider":"https://gitee.com/wkyilisha/mao/raw/master/custom_spider.jar;md5;71324bbe69b3a59348ceae5e9b9e0a28",
 
 
 "ijk": [
