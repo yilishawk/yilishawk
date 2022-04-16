@@ -39,15 +39,6 @@
     "filterable": 1
   },
   {
-    "key": "csp_Buka",
-    "name": "真不卡(测试)",
-    "type": 3,
-    "api": "csp_Buka",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1
-  },
-  {
     "key": "csp_Ysgc",
     "name": "影视工厂",
     "type": 3,
@@ -110,7 +101,7 @@
     "quickSearch": 0,
     "filterable": 0
   },
- {"key":"csp_Buka____首页默认","name":"首页默认〔P〕","type":3,"api":"csp_Buka"       ,"searchable":1,"quickSearch":0,"filterable":1},
+ {"key":"csp_Buka____首页默认","name":"凯哥推荐不卡〔P〕","type":3,"api":"csp_Buka"       ,"searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_N0ys____九零影视","name":"九零影视〔P〕","type":3,"api":"csp_N0ys"       ,"searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_Auete___奥特影视","name":"奥特影视〔P〕","type":3,"api":"csp_Auete"      ,"searchable":1,"quickSearch":0,"filterable":1},
 {
