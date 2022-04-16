@@ -109,7 +109,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0
-  }
+  },
 {
       "key": "csp_xpath_94sm",
       "name": "94神马(XPath)",
@@ -329,7 +329,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/Aixixi.json"
-    }
+    },
 {"key":"csp_appysv2_灵狐影视","name":"灵狐影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://x.dmntv.com/api.php/app/"},
 {"key":"csp_appysv2_手指影视","name":"手指影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_1080p","name":"1080p(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://1080p.one/lvdou_api.php/v1.vod"},
