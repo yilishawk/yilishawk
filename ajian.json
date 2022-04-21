@@ -18,13 +18,15 @@
 {"name":"虎猫视频","url":"http://vv.humaoweb.com/mogai_api.php/gctvapi.vod"},
 {"name":"DC视频","url":"http://chaorenbb.com/api.php/v1.vod"},
 {"name":"tvvip","url":"http://app.tvip.cc/api.php/v1.vod"}],
+ ### "zhujiexi": "##https://svip.96ad.cn/api/?key=gvUij0hDYG8Xb4C5Mw&url=#https://svip.rongxingvr.top/api/?key=B26J6jO5MOnjUv3GqW&url=#https://svip.96ad.cn/api/?key=X7Vkvh9PebwiB6wXwR&url=",###  
 "zhujiexi": "https://json.5lp.net/json.php?url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://api.okjx.cc:3389/jx.php?url=#https://languangyingshiziyuan.1080zy.top/longteng.php/?url=#https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=#https://jx.300ys.xyz/json/jh.php/?url=#https://humaosp.com/json.php?url=#https://apis.jxcxin.cn/api/jx?url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=#https://jx.ncxmid.cn/sb/?url=#https://json.pangujiexi.com:12345/json.php?url=#http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url=#http://ys.ling00.cn/json/?url=#https://che.kmys.top/1.php?url=#https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=",
 "beiyongjiexi": "https://sb.5gseo.net/?url=#https://api.okjx.cc:3389/jx.php?url=#http://www.sryy6.com/vip/?url=#http://api.vip123kan.vip/?url=#https://www.playm3u8.cn/jiexi.php?url=#https://okjx.cc/?url=",
 "renrenjiexi": "https://ku.renrenmi.cc/api/?key=ZTSkid2ROth73IfIIR&url=",
 "LTjiexi": "https://che.kmys.top/1.php?url=",
 "wuduyunjiexi": "https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=",
 "dianshizhibo": "https://yilishawk.github.io/mao/dszb.php",
-"caijizhan": "http://293x.yhzy.xyz/mv/api.php",
+###http://293x.yhzy.xyz/mv/api.php###http://zy.yilans.net:8090/api.php###
+"caijizhan": "http://api.kunyu77.com/api.php",
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
